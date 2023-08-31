@@ -27,7 +27,7 @@ This project was developed with the following technologies:
 This project uses the following libs:
 
 - phosphor-react
-- @radix-ui
+- radix-ui
 - polished
 
 ## 💻 Project
